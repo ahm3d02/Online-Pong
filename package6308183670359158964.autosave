@@ -1,0 +1,18 @@
+{
+  "name": "cpt",
+  "version": "1.0.0",
+  "description": "server for game",
+  "main": "CPT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "game",
+    "p5.js",
+    "CPT"
+  ],
+  "author": "Ahmed El Ashmawy",
+  "license": "ISC"
+}
